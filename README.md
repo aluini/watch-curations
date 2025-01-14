@@ -18,7 +18,7 @@ It is optimized for deployment on platforms like [Netlify](https://www.netlify.c
 ---
 
 ## Project Structure
-
+```json
 / ├── public/ 
 │ ├── assets/ 
 │ │ ├── curations/ # JSON files for each category 
@@ -29,6 +29,7 @@ It is optimized for deployment on platforms like [Netlify](https://www.netlify.c
 ├── dist/ # Output folder for generated static files 
 ├── build.js # Static site generator script 
 └── README.md # Documentation
+```
 
 ---
 
@@ -71,7 +72,7 @@ It is optimized for deployment on platforms like [Netlify](https://www.netlify.c
       }
     ]
   }
-```
+  ```
 
 ### 3. Run the Build Script
 Use the `build.js` script to generate the static site:
