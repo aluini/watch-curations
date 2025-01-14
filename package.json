@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "scripts": {
+    "build:categories": "node build.js",
+    "start": "npm run build:categories && node express-server.js",
+    "build": "npm run build:categories"
+  }
+}
