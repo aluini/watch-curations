@@ -1,0 +1,135 @@
+{
+    "emoji": "🐍",
+    "name": "Year of the Snake",
+    "header": {
+        "url": "https://images.unsplash.com/photo-1539389004540-770367e1bccb?q=80&w=2034&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "author": {
+            "name": "David Clode",
+            "url": "https://unsplash.com/@davidclode"
+        },
+        "platform": {
+            "name": "unsplash",
+            "url": "https://unsplash.com/"
+        }
+    },
+    "description": "Luxury watchmakers embrace the Chinese New Year with special editions, showcasing artistic designs inspired by the zodiac. For 2025, the Year of the Snake sparks creativity with elegant motifs reflecting the snake's cunning, patience, and transformative symbolism.",
+    "curations": [
+        {
+            "image": "./assets/images/2501-year-of-the-snake/7ca66b12-70cb-40a7-baba-86e01b748596.png",
+            "brand": "Hublot",
+            "product": "Spirit of Big Bang Year of the Snake",
+            "reference": "642.CI.0180.RX.CNY25",
+            "links": [
+                {
+                    "label": "Product detail",
+                    "target": "_blank",
+                    "url": "https://www.hublot.com/watches/spirit-of-big-bang/spirit-of-big-bang-year-of-snake-42-mm"
+                }
+            ]
+        },
+        {
+            "image": "./assets/images/2501-year-of-the-snake/acbbf960-fe44-464a-8db9-8a5aa07a78a3.png",
+            "brand": "IWC",
+            "product": "Portofino Automatic Moon Phase 37 Year of the Snake",
+            "reference": "IW459604",
+            "links": [
+                {
+                    "label": "Product detail",
+                    "target": "_blank",
+                    "url": "https://www.iwc.com/en/watch-collections/portofino/iw459604-portofino-automatic-moon-phase-37-year-of-the-snake.html"
+                }
+            ]
+        },
+        {
+            "image": "./assets/images/2501-year-of-the-snake/052dd341-2d89-41e5-84c6-f5eaca8ed433.png",
+            "brand": "Vacheron Constantin",
+            "product": "Métiers d'Art The Legend of the Chinese Zodiac - Year of the Snake",
+            "reference": "86073/000R-H034",
+            "links": [
+                {
+                    "label": "Product detail",
+                    "target": "_blank",
+                    "url": "https://www.vacheron-constantin.com/gb/en/collections/metiers-d-art/86073-000r-h034.html"
+                }
+            ]
+        },
+        {
+            "image": "./assets/images/2501-year-of-the-snake/5b526c12-4cb1-4779-b803-d5b1d73faa69.png",
+            "brand": "Vacheron Constantin",
+            "product": "Métiers d'Art The Legend of the Chinese Zodiac - Year of the Snake",
+            "reference": "86073/000P-H033",
+            "links": [
+                {
+                    "label": "Product detail",
+                    "target": "_blank",
+                    "url": "https://www.vacheron-constantin.com/gb/en/collections/metiers-d-art/86073-000p-h033.html"
+                }
+            ]
+        },
+        {
+            "image": "./assets/images/2501-year-of-the-snake/78159c63-34ff-4eaa-9c7b-0d53cf3cd663.png",
+            "brand": "Jaeger LeCoultre",
+            "product": "Reverso Tribute Enamel Snake",
+            "reference": "Q39324D2",
+            "links": [
+                {
+                    "label": "Product detail",
+                    "target": "_blank",
+                    "url": "https://www.jaeger-lecoultre.com/watches/reverso/reverso-tribute/reverso-tribute-enamel-snake-q39324d2"
+                }
+            ]
+        },
+        {
+            "image": "./assets/images/2501-year-of-the-snake/5a81f7f9-5c8a-489f-9f5d-d7504e60c5db.jpg",
+            "brand": "Oris",
+            "product": "Propilot X Year of the Snake Limited Edition",
+            "reference": "01 115 7759 7117-Set",
+            "links": [
+                {
+                    "label": "Product detail",
+                    "target": "_blank",
+                    "url": "https://www.oris.ch/product/watch/propilot-x/propilot-x-calibre-115/01-115-7759-7117-Set"
+                }
+            ]
+        },
+        {
+            "image": "./assets/images/2501-year-of-the-snake/6b9351aa-4de1-4db9-8c53-ad5eaa902f1d.png",
+            "brand": "Longines",
+            "product": "Conquest Heritage Year of the Snake Edition",
+            "reference": "L16514092",
+            "links": [
+                {
+                    "label": "Product detail",
+                    "target": "_blank",
+                    "url": "https://www.longines.com/p/watch-conquest-heritage-year-of-the-snake-edition-l1-651-4-09-2"
+                }
+            ]
+        },
+        {
+            "image": "./assets/images/2501-year-of-the-snake/812bff13-c36e-40c5-9b22-db3b11483444.png",
+            "brand": "Breguet",
+            "product": "Classique 7145",
+            "reference": "7145BR/15/9WU 06",
+            "links": [
+                {
+                    "label": "Product detail",
+                    "target": "_blank",
+                    "url": "https://www.breguet.com/en/watches/classique/classique-7145/7145br159wu06"
+                }
+            ]
+        },
+        {
+            "image": "./assets/images/2501-year-of-the-snake/97241a37-e121-44ae-aa7f-419ba039b842.png",
+            "brand": "Baume & Mercier",
+            "product": "Riviera 10785",
+            "reference": "BMM0A10785",
+            "links": [
+                {
+                    "label": "Product detail",
+                    "target": "_blank",
+                    "url": "https://www.baume-et-mercier.com/en/collections/riviera-men/watch-riviera-10785-central-second.html"
+                }
+            ]
+        }
+    ]
+}
