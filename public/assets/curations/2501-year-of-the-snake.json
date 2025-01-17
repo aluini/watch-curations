@@ -130,6 +130,19 @@
                     "url": "https://www.baume-et-mercier.com/en/collections/riviera-men/watch-riviera-10785-central-second.html"
                 }
             ]
+        },
+        {
+            "image": "./assets/images/2501-year-of-the-snake/29912a0f-fbf5-4a84-a033-b224c6742342.png",
+            "brand": "Blancpain",
+            "product": "Villeret Calendrier Chinois Traditionnel",
+            "reference": "0888 3432C 55B",
+            "links": [
+                {
+                    "label": "Product detail",
+                    "target": "_blank",
+                    "url": "https://www.blancpain.com/en/villeret/calendrier-chinois-traditionnel-0888-3432c-55b"
+                }
+            ]
         }
     ]
 }
